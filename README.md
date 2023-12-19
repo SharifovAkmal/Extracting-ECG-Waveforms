@@ -29,8 +29,8 @@ The main goal of this project is to extract II waveforms from full ECG data for 
 
 ## Output Images
 
-- Original Image: Result Images/Original_Image.png
-- Extracted II Waveforms: Result Images/Extracting_Gray_Image.png
+![Original Image](Result%20Images/Original_Image.png)
+![Extracted II Waveforms](Result%20Images/Extracting_Gray_Image.png)
 
 ## References
 
